@@ -13,7 +13,7 @@ repository          : xinii/blog    # repository metadata on GitHub Pages [know 
 ### Author Info ###
 author:
   name              : Xin Li
-  image             : https://github.com/xinii/blog/blob/master/docs/xin.jpg
+  image             : https://raw.githubusercontent.com/xinii/blog/master/docs/xin.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : xinii@msn.com
