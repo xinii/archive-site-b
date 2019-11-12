@@ -6,3 +6,12 @@ weight: 4
 ---
 
 # **Information**
+
+<footer>
+  This page is <b>open source</b>. Noticed a typo? <br>
+  Or something unclear? Improve it on {% github_edit_link "GitHub" %}.
+
+  This documentation is <b>open source</b>. Noticed a typo? <br>
+  Or something unclear? Improve it on {% github_edit_link "GitHub" %}.
+</footer>
+
