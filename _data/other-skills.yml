@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
+- name: Linux
+  percentage: 98
+  color: danger
+
+- name: Org-mode
   percentage: 95
   color: info
+  
+- name: Adobe Photoshop
+  percentage: 95
+  color:
 
-- name: Adobe Illustrator
+- name: Logic Pro X
   percentage: 90
   color: success
