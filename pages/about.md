@@ -15,6 +15,14 @@ A person who likes all kinds of interesting things and wants anything to be bett
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
+## Educational experience
+
+<div class="row">
+{% include about/timeline.html %}
+</div>
+
+## Work experience and internships
+
 <div class="row">
 {% include about/timeline.html %}
 </div>
