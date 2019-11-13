@@ -1,8 +1,8 @@
 ---
 title: Org-modeでhtml exportの際のthemeについて
-tags: [Emacs Orgmode HTML Export CSS Theme]
+tags: [Emacs, Orgmode, HTML Export, CSS, Theme]
 style: fill
-color: dark
+color: danger
 description: A different “hello world” to demonstrate language features better.
 ---
 
@@ -44,12 +44,12 @@ org-modeで文書を書いてhtmlにexportすると，素のままでは，な�
 subheadの色も設定されており，読みやすい．デザインもプロっぽい印象である．
 書いた内容にかかわらず，なんとなく賢くなったような気分になれる（笑）．
 
-![text](https://taipapamotohus.com/img/ReadTheOrg.jpg "Image")
+![readtheorg](https://taipapamotohus.com/img/ReadTheOrg.jpg "readtheorg")
 
 ## org-spec
 
 An Org-mode template for technical specification documents and HTML publishing. 
-とのことで，技術よりのthemeである．特徴としては，Ditaa, Graphviz \& PlantUMLなどによりテキストベースで図が書ける．
+とのことで，技術よりのthemeである．特徴としては，Ditaa, Graphviz & PlantUMLなどによりテキストベースで図が書ける．
 表に対応，自動的にアップデートするフィールド，
 PDF生成にも対応，コードブロックの基本的なsyntax highlightingなどがある．
 実際の例として[https://demo.thi.ng/org-spec](https://demo.thi.ng/org-spec)がある．
@@ -78,7 +78,7 @@ PDF生成にも対応，コードブロックの基本的なsyntax highlighting�
 ReadTheOrgよりもビジネスライクな感じであるが，よりスマートな気もする．
 その日の気分によって，この2つを使い分けている．
 
-![text](https://taipapamotohus.com/img/org-spec.png "Image")
+![org-spec](https://taipapamotohus.com/img/org-spec.png "org-spec")
 
 以上あげた2つ以外にも無数のthemeが存在する．
 また，自分でthemeを作ってしまう剛の者もいらっしゃるので，
