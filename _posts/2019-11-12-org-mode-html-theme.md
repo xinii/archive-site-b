@@ -1,9 +1,9 @@
 ---
-title: Org-modeでhtml exportの際のthemeについて
+title: About the theme of html export in org-mode
 tags: [Emacs, Org-mode, HTML Export, CSS, Theme, Japanese]
 style: fill
 color: danger
-description: A different “hello world” to demonstrate language features better.
+description: Org-modeでhtml exportの際のthemeについて
 ---
 
 Source: [taipapa](https://taipapamotohus.com/post/org-html-export-theme)
@@ -25,7 +25,7 @@ org-modeで文書を書いてhtmlにexportすると，素のままでは，な�
 
 ## ReadTheOrg
 
-これはRead the Docsで使われているthemeのcloneである．
+これは[Read the Docs](https://docs.readthedocs.io/en/latest/)で使われているthemeのcloneである．
 一番簡単な使い方は，3にあるようにsetup fileをorg fileのpreambleに書いておくことである．
 
 ```
