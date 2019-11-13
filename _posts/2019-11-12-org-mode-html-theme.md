@@ -1,5 +1,5 @@
 ---
-title: About the theme of html export in org-mode
+title: The html export themes for org-mode
 tags: [Emacs, Org-mode, HTML Export, CSS, Theme, Japanese]
 style: fill
 color: danger
