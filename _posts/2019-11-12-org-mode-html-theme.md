@@ -1,6 +1,6 @@
 ---
 title: Org-modeでhtml exportの際のthemeについて
-tags: [Emacs, Orgmode, HTML Export, CSS, Theme]
+tags: [Emacs, Org-mode, HTML Export, CSS, Theme, Japanese]
 style: fill
 color: danger
 description: A different “hello world” to demonstrate language features better.
