@@ -16,10 +16,10 @@ org-modeで文書を書いてhtmlにexportすると，素のままでは，な�
 とにかく，たくさんのthemesが存在する．まずは以下のサイトをチェック，
 というか以下を読めばこのブログは読まなくても良いような...
 
-1. org-modeのHTMLテーマ
-2. org-modeのHTMLテーマ第2弾
-3. How to export Org mode files into awesome HTML in 2 minutes
-4. org-spec
+1. [org-modeのHTMLテーマ](https://qiita.com/sambatriste/items/2dc9f81cbf1e82d7429a)
+2. [org-modeのHTMLテーマ第2弾](https://qiita.com/sambatriste/items/c8e70368ee5fd092096b)
+3. [How to export Org mode files into awesome HTML in 2 minutes](https://github.com/fniessen/org-html-themes#how-to-export-org-mode-files-into-awesome-html-in-2-minutes)
+4. [org-spec](https://github.com/thi-ng/org-spec)
 
 私のお気に入りは，ReadTheOrg（上記の1, 3にある）とorg-spec（上記の4）である．
 
