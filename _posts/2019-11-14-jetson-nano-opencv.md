@@ -6,11 +6,12 @@ color: dark
 description: 在Jetson Nano上安装OpenCV
 ---
 
-## 创建 swap 文件
+## 生成swap文件
 
 为防止编译途中由于内存不足等问题报错，
-这里首先提前创建一个 swap 文件，存放路径任意。
-重启后 swap 空间会消失，以下编译等全部工作完成后可以手动删除这个文件。
+这里首先提前创建一个swap文件，存放路径任意。
+重启后swap空间会消失，
+以下编译等全部工作完成后可以手动删除这个文件。
 
 ```
 $ fallocate -l 4G swapfile
@@ -20,7 +21,7 @@ $ sudo swapon swapfile
 $ swapon -s
 ```
 
-## 创建安装脚本
+## 生成安裝腳本
 
 [安装 OpenCV 4.0.0 版本的脚本原始链接](https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.0.0_Nano.sh)
 
@@ -79,7 +80,7 @@ echo "** Bye :)"
 
 将上面的脚本保存为 sh 文件，例如：install_opencv4.1.0_Nano.sh
 
-## 执行脚本
+## 運行腳本
 
 ```
 mkdir opencv
@@ -88,7 +89,7 @@ sh install_opencv4.1.0_Nano.sh opencv
 安装会比较花时间，耐心等待安装结束，建议使用 tmux 等挂在后台执行。
 
 
-## 测试已安装的 OpenCV
+## 測試安裝好的OpenCV
 
 这里应该在 python 的交互界面执行 `import cv2` 就不会报错了。
 
