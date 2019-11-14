@@ -2,7 +2,7 @@
 title: The html export themes for org-mode
 tags: [Emacs, Org-mode, HTML Export, CSS, Theme, Japanese]
 style: fill
-color: danger
+color: info
 description: Org-modeでhtml exportの際のthemeについて
 ---
 
@@ -11,10 +11,10 @@ Source: [taipapa](https://taipapamotohus.com/post/org-html-export-theme)
 org-modeで文書を書いてhtmlにexportすると，素のままでは，なんの愛想もない．
 特にいくつかの項目をまとめた要約などを並べていくときは，side columnなどがあって，
 すぐに行きたいところに飛べるようになっていると嬉しい．
-ということで，今回はorg-modeをhtmlにexportするときのthemeがテーマである...
+ということで，今回はorg-modeをhtmlにexportするときのthemeがテーマである。
 
 とにかく，たくさんのthemesが存在する．まずは以下のサイトをチェック，
-というか以下を読めばこのブログは読まなくても良いような...
+というか以下を読めばこのブログは読まなくても良いような。
 
 1. [org-modeのHTMLテーマ](https://qiita.com/sambatriste/items/2dc9f81cbf1e82d7429a)
 2. [org-modeのHTMLテーマ第2弾](https://qiita.com/sambatriste/items/c8e70368ee5fd092096b)
@@ -78,8 +78,8 @@ PDF生成にも対応，コードブロックの基本的なsyntax highlighting�
 ReadTheOrgよりもビジネスライクな感じであるが，よりスマートな気もする．
 その日の気分によって，この2つを使い分けている．
 
-![org-spec](https://taipapamotohus.com/img/org-spec.png "org-spec")
+{% include elements/figure.html image="https://taipapamotohus.com/img/org-spec.png" caption="Image of org-spec" %}
 
 以上あげた2つ以外にも無数のthemeが存在する．
 また，自分でthemeを作ってしまう剛の者もいらっしゃるので，
-あちこちを探してみるのも一興...
+あちこちを探してみるのも一興。
