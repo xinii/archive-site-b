@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : xin blog backend
 description         : >-                               # >- means to ignore newlines until "url:"
-                      <a href=https://xinii.github.io/>Go to homepage</a>
+                      "<a href=https://xinii.github.io/>Go to homepage</a>"
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : "/blog"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
