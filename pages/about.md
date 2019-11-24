@@ -7,8 +7,9 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-A person who likes all kinds of interesting things and wants anything to be better.
+Here is backend of **{{ site.author.name }}**'s blog,<br>
+<a href=https://xinii.github.io/>Go to homepage</a>
+
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
