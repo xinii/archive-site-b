@@ -32,7 +32,7 @@ author:
 
 
 ### Pagination ###
-paginate: 6
+paginate: 20
 paginate_path: "/articles/page-:num/"
 
 
