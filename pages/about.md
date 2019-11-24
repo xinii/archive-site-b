@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Here is backend of **{{ site.author.name }}**'s blog,<br>
-<a href=https://xinii.github.io/>Go to homepage</a>
+[Go to homepage](https://xinii.github.io/)
 
 
 <div class="row">
