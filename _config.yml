@@ -12,7 +12,7 @@ repository          : https://github.com/xinii/    # repository metadata on GitH
 ### Author Info ###
 author:
   name              : backend
-  image             : https://raw.githubusercontent.com/xinii/blog/master/docs/xin.jpg
+  image             : https://xinii.cf/img/xin.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : xinii@msn.com
